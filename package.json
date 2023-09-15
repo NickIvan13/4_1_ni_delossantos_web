@@ -1,0 +1,19 @@
+{
+  "name": "4_1_ni_delossantos_web",
+  "version": "1.0.0",
+  "description": "___\r ### Age - 21\r ___\r ### This a an example of a full stack web application.\r ___",
+  "main": "^C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickIvan13/4_1_ni_delossantos_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickIvan13/4_1_ni_delossantos_web/issues"
+  },
+  "homepage": "https://github.com/NickIvan13/4_1_ni_delossantos_web#readme"
+}
