@@ -4,7 +4,9 @@
   "description": "___\r ### Age - 21\r ___\r ### This a an example of a full stack web application.\r ___",
   "main": "^C",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "serve": "nodemon server.js"
   },
   "repository": {
     "type": "git",
